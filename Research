@@ -30,7 +30,7 @@
 							<div class="col-12">
 
 								<header id="header">
-									<h1><a href="index.html" id="logo">Weiyu Li</a></h1>
+									<h1><a href="index.html" id="logo">Zitong Wang</a></h1>
 									<nav id="nav">
                                         <a href="index.html">Homepage</a>
                                         <a href="CV.html">Curriculum Vitae</a>
@@ -52,8 +52,8 @@
 
                                 <section>
                                     <h2>Seminars</h2>
-                                    <h4>2021.1 - 2021.3 : Statistical learning in Researchera</h4>
-                                    <p>Organized by Prof. <a href="http://bs.ustc.edu.cn/english/profile-302.html">BRADFORD TUCKFIELD</a> , we mainly focused on <a href="documents/ESLII_print12.pdf">The Elements of Machine Learning</a> associated with <a href="documents/An Introduction to Statistical Learning.pdf">An Introduction to Business Analytics and Statistical Learning</a>. I participated in the second half of the seminar.</p>
+                                    <h4>2021.1 - 2021.3 : Machine learning in Researchera</h4>
+                                    <p>Organized by Prof. <a href="http://bs.ustc.edu.cn/english/profile-302.html">BRADFORD TUCKFIELD</a> , we mainly focused on <a href="http://mail.ustc.edu.cn/coremail/XT3/mbox/viewmail.jsp?sid=BAqlSOQQIgYSxOJapDQQoDmiTnLWfLiw&fid=1&reloadFolder=true&fid=1&webReadOnly=0&offset=0&mid=1%3A1tbiAQsED1Qhn9dgqQACs3&scheduledate=#attachments_box">The Elements of Machine Learning</a> associated with <a href="http://mail.ustc.edu.cn/coremail/XT3/mbox/viewmail.jsp?sid=BAqlSOQQIgYSxOJapDQQoDmiTnLWfLiw&fid=1&reloadFolder=true&fid=1&webReadOnly=0&offset=0&mid=1%3A1tbiAQoED1Qhn9eimQABsH&scheduledate=#attachments_box">An Introduction to Business Analytics and Statistical Learning</a>. I participated in the second half of the seminar.</p>
                                    
 								</section>
 
@@ -66,7 +66,7 @@
                                         <li>
                                             <h3><a href="https://lu.seas.harvard.edu">Yue M. Lu</a></h3>
                                             <h4>2019.6 - </h4>
-                                            <p>Research topic : high-dimensional nonconvex estimation. <br>We have characterized the asymptotical properties of the <a href="https://arxiv.org/abs/1702.06435">spectral initialization</a>.</p>
+                                            <p>Research topic : Statistics, Machine Learning, Economics, Coding, Data Viz. <br>We have characterized the asymptotical properties of the <a href="https://arxiv.org/abs/1702.06435">spectral initialization</a>.</p>
                                         </li>
 									</ul>
 								</section>
