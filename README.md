@@ -1,2 +1,2 @@
-# homepage
+# Homepage
 Just a readme
